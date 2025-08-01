@@ -1,60 +1,76 @@
-#  ━━━ Base  ━━━
-# Esync Base (1.0.0)
-# Help = discord.gg/harmoni
+# ✨━━━ Esync Base (1.0.0) ━━━✨
 
-# ━━━ aide & créateur ━━━
-# Créateur : harmonicien
-# Discord : discord.gg/harmoni
-# Nom du serveur : Esync
-# Description : Esync
-# Logo : Esync.png (2048x2048) ⚠️
-# Support mail : Esync@fastservice.com (réponse sous 24h)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289DA?logo=discord&logoColor=white)](https://discord.gg/harmoni)
+[![FAQ](https://img.shields.io/badge/FAQ-Consultez%20ici-blue?logo=readthedocs)](https://deaaz.io/faq)
+[![Support](https://img.shields.io/badge/Support-Contact-orange?logo=gmail)](mailto:Esync@fastservice.com)
 
-———————————————————————————————————————————————————————————————————————————————
+<img src="Esync.png" alt="Esync Logo" width="200" />
 
-➤ FAQ (https://deaaz.io/faq) 📌
+---
 
--Commencement du développement le 01/08/2025.
+## 👤 Créateur & Infos
 
--Esync est une base 100% gratuite avec une aide gratuite.
+- **Créateur :** harmonicien  
+- **Discord :** [discord.gg/harmoni](https://discord.gg/harmoni)  
+- **Nom du serveur :** Esync  
+- **Description :** Esync, votre base de scripts optimisée et gratuite.  
+- **Support mail :** [Esync@fastservice.com](mailto:Esync@fastservice.com) (réponse sous 24h)  
+- **Logo :** `Esync.png` _(2048x2048)_ ⚠️
 
--Développé avec des scripts crée par : harmonicien, la pluspart sont des scripts open source qui sont amélioré graphiquement & dans les scripts.
+---
 
--Inspiration de l'image de la base (communication, etc...) : BackToBronxWL 🗽 (https://discord.gg/wl-backtobronx-newyork-851141166698725427) - Maintenant nommé FiveFA.
+## 📌 [FAQ](https://deaaz.io/faq)
 
--Scripts développé/modifié par harmonicien : Redesign du OX_INVENTORY | 24/7 Shop | Pawn Shop (mapping : https://nest-3d-fivem-maps.tebex.io/package/5853779) |
+- 🗓️ Début du développement : **01/08/2025**
+- 💸 **100% Gratuit** — Aide gratuite disponible !
+- ⚙️ Développé par **harmonicien** avec des scripts majoritairement open-source, améliorés graphiquement & fonctionnellement.
+- 🎨 **Inspiration de la base :** [BackToBronxWL 🗽](https://discord.gg/wl-backtobronx-newyork-851141166698725427) (devenu FiveFA)
+- 🔧 **Scripts développés/modifiés par harmonicien :**
+  - Redesign du **OX_INVENTORY**
+  - **24/7 Shop**
+  - **Pawn Shop** (Mapping : [Nest 3D - FiveM Maps](https://nest-3d-fivem-maps.tebex.io/package/5853779))
 
-———————————————————————————————————————————————————————————————————————————————
+---
 
-➤ Infromations (https://deaaz.io/informations) ℹ️
+## ℹ️ [Informations](https://deaaz.io/informations)
 
--
+_Toutes les informations importantes sur la base sont disponibles sur le site officiel._
 
-———————————————————————————————————————————————————————————————————————————————
+---
 
-➤ Possibles Erreurs (https://deaaz.io/help) 👆🏽
+## 👆🏽 [Possibles Erreurs](https://deaaz.io/help)
 
-- Awaiting Scripts : Vous n'avez pas démarré les resources correctement demandez de l'aide sur discord.gg/harmoni
-- Erreur dans les logs : sois vous avez ajouter un script incorrect ou vous l'avez mal mis sois vous avez pas mis les DB - PhpMyAdmin
-    🡅 (importez la DataBase/esync.sql )
+- ⚠️ **Awaiting Scripts :** Vous n'avez pas démarré les ressources correctement. Demandez de l'aide sur [discord.gg/harmoni](https://discord.gg/harmoni).
+- 🐞 **Erreur dans les logs :** 
+  - Mauvais ajout de script ou mauvaise configuration.
+  - Base de données (DB) non importée.
+  - **Solution :** Importez le fichier `DataBase/esync.sql` via **PhpMyAdmin**.
 
-———————————————————————————————————————————————————————————————————————————————
+---
 
-➤ Patchnotes 🚧 (https://deaaz.io/patchnotes)
+## 🚧 [Patchnotes](https://deaaz.io/patchnotes)
 
-- Création du server.cfg complet
-- Création du configuration.cfg
-- Création du resources.cfg
-- Modification du configuration.cfg pour ajouter l'AntiDDOS
+- 📝 Création du `server.cfg` complet
+- 📝 Création du `configuration.cfg`
+- 📝 Création du `resources.cfg`
+- 🛡️ Ajout d'un **AntiDDOS** dans le `configuration.cfg`
 
-———————————————————————————————————————————————————————————————————————————————
+---
 
-➤ Projets Futur 🧩 (https://deaaz.io/projets) - Pour la base et pour Harmonicien.
+## 🧩 [Projets Futurs](https://deaaz.io/projets)
 
-- Création d'un shop ✖️
-- Création d'un BOT DISCORD API ✖️
-- Création d'une Tenue Staff ✖️
-- Vidéo TUTO compléte. (justement comment modifier la tenue staff etc...) ✖️
-- Création du site https://deaaz.io ✖️
+- 🛒 Création d'un **shop** ✖️
+- 🤖 Création d'un **BOT DISCORD API** ✖️
+- 👔 Création d'une **Tenue Staff** ✖️
+- 🎥 Vidéo **TUTO complète** (ex : comment modifier la tenue staff) ✖️
+- 🌐 Création du site [https://deaaz.io](https://deaaz.io) ✖️
 
-———————————————————————————————————————————————————————————————————————————————
+---
+
+> **💡 Besoin d'aide ?**  
+> Rejoignez notre Discord pour une assistance rapide et une communauté active !  
+> [discord.gg/harmoni](https://discord.gg/harmoni)
+
+---
+
+**© 2025 Esync Base — Powered by harmonicien**
