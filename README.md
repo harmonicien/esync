@@ -1,0 +1,2 @@
+# esync
+fivem base
